@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/" title="Home"  description="">
+    <siteMapNode url="~/Carro" title="Carro"  description="" />
+    <siteMapNode url="~/Cidade" title="Cidade"  description="" />
+    <siteMapNode url="~/Combustivel" title="Combustivel"  description="" />
+    <siteMapNode url="~/Estado" title="Estado"  description="" />
+    <siteMapNode url="~/Marca" title="Marca"  description="" />
+    <siteMapNode url="~/Modelo" title="Modelo"  description="" />
+    <siteMapNode url="~/Usuario" title="Usuario"  description="" />
+    <siteMapNode url="~/UsuarioTipo" title="UsuarioTipo"  description="" />
+  </siteMapNode>
+</siteMap>
